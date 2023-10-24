@@ -1,0 +1,29 @@
+h1{
+  font-family: verdana; 
+  font-size: 30pt;         
+  font-style: normal; 
+  font-weight: ; 
+  color: Black;
+  text-align: center; 
+}
+.btn{
+	width: 150px;
+	height: 150px;
+	font-family: verdana;
+	background-color: #59E817;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16pt;
+	font-weight:bold ;
+	border-radius: 15px;
+	box-shadow: 0 4px white;
+	cursor: pointer;
+}
+label {
+	font-family:Verdana; 
+	font-size:20pt; 
+	font-weight:bold;
+}

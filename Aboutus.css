@@ -1,0 +1,38 @@
+
+body{
+	font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+	font-size:22px;
+	
+}
+.menu-bar
+{
+	background: #042331;
+	text-align:center;
+	color:white;
+	font-size: 18px;
+	font-family:verdana;
+	font-weight:bold;
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color:#fff;
+}
+.menu-bar ul li
+{
+	width:50px;
+	margin: 15px;
+	padding: 15px;
+}
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: #fff;
+}
+.active, .menu-bar ul li:hover
+{
+		background: red;
+		border-radius: 3px;
+}

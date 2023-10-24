@@ -1,0 +1,42 @@
+h1{
+  font-family: verdana; 
+  font-size: 40pt;         
+  font-style: normal; 
+  font-weight: ; 
+  color: Black;
+  text-align: center; 
+}
+button{
+	 font-family: Calibri;
+	background-color: transparent;
+	border-color: black;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	font-size: 18pt;
+	font-weight: bold  ;
+	border-radius: 15px;
+	
+	cursor: pointer;
+}
+.btn{
+	 box-shadow: 0 4px black;
+	 position: relative
+}
+
+.btn1{
+	position: relative
+}
+
+.btn2{
+	 
+}
+.btn3{
+	
+}
+.btn4{
+	 
+}
+.btn5{
+	 
+}
